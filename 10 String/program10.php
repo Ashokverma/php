@@ -15,6 +15,6 @@ echo strpos("Ashok verma","verma");
 
 # Replace String Text Inside String
 
-echo str_replace("world","john"."hello world");
+echo str_replace("world","john","hello world");
 
 ?>
