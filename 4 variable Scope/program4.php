@@ -15,4 +15,4 @@ test2();
 
 echo $y; // Not working
 
-}
+?>

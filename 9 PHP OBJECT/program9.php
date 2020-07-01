@@ -27,4 +27,8 @@ $person1 = new person("Ashok", "Verma" , "23");
 
 echo $person1->hello();
 
+$person2= new person("First name","Last name","12");
+
+echo $person2 -> hello();
+
 ?>

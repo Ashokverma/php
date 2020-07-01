@@ -4,6 +4,12 @@
 # Widely used in web Development
 # Fast, Stable , Cross Platform
 
+//ddfdf
+
+/*
+dnkd
+*/
+
 
 # php -> PHP originally stood for Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor.
 
@@ -25,8 +31,10 @@
 # php is a server side language
 # Javascript , HTML , CSS are client side languages
 
+#<filename>.php
+
 # Run php file on server start 'localhost'
 
-echo 'Hello World';
+echo 'Hello World k';
 
 ?>

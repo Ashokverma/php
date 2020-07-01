@@ -12,8 +12,11 @@
 # $var / $VAR are different 
 
 # now initializing variable 
-$abc ="z";
+$_abc ="z";
 
-echo $abc;
+echo $_abc;
+
+$a1="2";
+echo $a1;
 
 ?>
